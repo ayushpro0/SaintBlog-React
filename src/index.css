@@ -64,6 +64,7 @@
 .blog-details div {
   margin: 20px 0;
   text-align: justify;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .blog-details button {
   background: #f1356d;
